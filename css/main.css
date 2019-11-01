@@ -116,7 +116,7 @@ section {
 .nav-list {
     padding: 0;
     width: 575px;
-    margin-top: 10px;
+    margin: 10px;    
 }
 
 .nav-list li a {
@@ -127,7 +127,7 @@ section {
 }
 
 .profile {
-    margin: auto;
+    margin-left: auto;
 }
 
 .account {
@@ -143,7 +143,7 @@ section {
 
 .profile-pic {
     width: 60px;
-    height: 50px;
+    height: 60px;
 }
 
 .profile-pic img {
