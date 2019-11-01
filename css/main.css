@@ -87,8 +87,8 @@ section {
 }
 
 .brand {
-    width: 170;
-    height: 85;
+    width: 170px;
+    height: 85px;
     margin-left: -15px;
     margin-right: 60px;
 }
@@ -115,7 +115,7 @@ section {
 
 .nav-list {
     padding-left: 0;
-    width: 575px;
+    width:  575px;
     margin: 10px;    
 }
 
