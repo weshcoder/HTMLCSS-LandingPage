@@ -229,10 +229,10 @@ footer {
     position: relative;
     z-index: 0;
     min-height: 330px;
-    background-color: black;    
+    background-color: #000000;    
 }
 
-fotter:after {
+footer:after {
     background-color: #a0a0a0;
     width: 75%;
     position: absolute;
@@ -277,7 +277,7 @@ footer a:hover {
 .twitter { background-image: url('../img/twitter.svg')}
 .facebook { background-image: url('../img/facebook.svg')}
 .instagram { background-image: url('../img/instagram.svg')}
-.pintrest { background-image: url('../img/pinterest.svg')}
+.pinterest { background-image: url('../img/pinterest.svg')}
 .newsletter .link-header {
     font-size: 12px;
     font-weight: 400;
