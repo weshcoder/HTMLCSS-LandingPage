@@ -48,12 +48,12 @@ h1, h2, h3, h4, h5, h6 { margin: 0; }
     line-height: 1.4;
 }
 
-.button-default {
+.btn-default {
     color: white;
     background-color: #faa541;
 }
 
-.button-primary {
+.btn-primary {
     color: white;
     background-color: #364147;
 }
